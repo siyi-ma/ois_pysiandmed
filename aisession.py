@@ -70,7 +70,7 @@ List each error/issue with:
 - **Context**: Where/when it occurred
 - **Root Cause**: Why it happened
 - **Solution**: How it was resolved
-- **Status**: ✓ Resolved / ⚠ Needs follow-up
+- **Status**: Resolved / Needs follow-up
 
 ### 3. Code Changes
 For each significant change:
@@ -101,13 +101,13 @@ command executed
 - Future improvements noted
 
 ## Style Requirements:
-- ✓ Factual, technical tone
-- ✓ Mask all API keys, passwords, sensitive data
-- ✓ Include actual error messages and solutions
-- ✓ Use code snippets for clarity
-- ✗ No praise, encouragement, or filler
-- ✗ No "great job" or "well done"
-- ✗ No unnecessary explanations
+- Factual, technical tone
+- Mask all API keys, passwords, sensitive data
+- Include actual error messages and solutions
+- Use code snippets for clarity
+- No praise, encouragement, or filler
+- No "great job" or "well done"
+- No unnecessary explanations
 
 ## Format:
 Use markdown with proper headers, code blocks, and lists.
@@ -277,7 +277,7 @@ def create_summary_file(theme: Optional[str] = None, from_notes: Optional[str] =
 - **Context**: [Where/when it occurred]
 - **Root Cause**: [Why it happened]
 - **Solution**: [How it was resolved]
-- **Status**: ✓ Resolved / ⚠ Needs follow-up
+- **Status**: Resolved / Needs follow-up
 
 ## 3. Code Changes
 
@@ -384,7 +384,7 @@ def display_start_instructions(topic: Optional[str] = None):
     print("=" * 70)
     
     if topic:
-        print(f"\n📋 Session Topic: {topic}\n")
+        print(f"\nSession Topic: {topic}\n")
     
     print("Copy the text below and paste it to start your AI session:\n")
     print("-" * 70)
@@ -398,7 +398,7 @@ def display_start_instructions(topic: Optional[str] = None):
         print("- Goal: [State the objective]")
         print("- Files: [List relevant files]")
     
-    print("\n✓ Instructions copied above. Paste into your AI chat to begin.\n")
+    print("\nInstructions copied above. Paste into your AI chat to begin.\n")
 
 
 def main():

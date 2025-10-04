@@ -2,6 +2,12 @@ import pandas as pd
 import os
 import re
 from pathlib import Path
+try:
+    import pyarrow as pa
+    import pyarrow.parquet as pq
+    PARQUET_AVAILABLE = True
+except ImportError:
+    PARQUET_AVAILABLE = False
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.common.by import By
@@ -157,7 +163,7 @@ def scrape_study_programmes():
     except WebDriverException as e:
         error_msg = str(e).lower()
         if any(keyword in error_msg for keyword in ['version', 'chrome', 'browser', 'driver']):
-            print("\n⚠️  WARNING: EdgeDriver version mismatch detected!")
+            print("\nWARNING: EdgeDriver version mismatch detected!")
             print("   Your Edge browser may have updated but EdgeDriver hasn't.")
             print("   Please download the latest EdgeDriver from:")
             print("   https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/")
@@ -433,7 +439,17 @@ def process_taltechkoikkavad():
     # Step 8: Save to CSV
     df_final.to_csv(output_file, index=False, encoding='utf-8')
     
-    print(f"Generated {output_file}")
+    # Save parquet version to output folder
+    if PARQUET_AVAILABLE:
+        output_dir = Path('output')
+        output_dir.mkdir(exist_ok=True)
+        parquet_file = output_dir / f"{Path(output_file).stem}.parquet"
+        df_final.to_parquet(parquet_file, index=False)
+        print(f"Generated {output_file}")
+        print(f"Generated {parquet_file}")
+    else:
+        print(f"Generated {output_file}")
+        print("Note: Install pyarrow for parquet format support")
     print(f"Processed {len(df_final)} records")
     return df_final
 
@@ -458,9 +474,9 @@ def main():
             print("=== Running Full ETL ===")
             result = process_taltechkoikkavad()
             if result is not None:
-                print("✅ Full ETL completed successfully")
+                print("Full ETL completed successfully")
             else:
-                print("❌ ETL failed")
+                print("ETL failed")
                 
         elif args.scrapeonly:
             print("=== Scraping Only ===")
@@ -471,7 +487,7 @@ def main():
             output_file = "scraped_programmes.json"
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(programme_map, f, ensure_ascii=False, indent=2)
-            print(f"✅ Scraped {len(programme_map)} programmes saved to {output_file}")
+            print(f"Scraped {len(programme_map)} programmes saved to {output_file}")
             
         elif args.csvetlonly:
             print("=== CSV Processing Only ===")
@@ -484,7 +500,7 @@ def main():
                     programme_map = json.load(f)
                 print(f"Loaded {len(programme_map)} scraped programmes")
             except FileNotFoundError:
-                print("⚠️  No scraped programmes found. Running scraping first...")
+                print("No scraped programmes found. Running scraping first...")
                 # Set quiet mode for scraping
                 scrape_study_programmes._quiet_mode = True
                 programme_map = scrape_study_programmes()
@@ -495,12 +511,12 @@ def main():
             # Run CSV processing with loaded data
             result = process_csv_with_mapping(programme_map)
             if result is not None:
-                print("✅ CSV processing completed successfully")
+                print("CSV processing completed successfully")
             else:
-                print("❌ CSV processing failed")
+                print("CSV processing failed")
                 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"Error: {e}")
         sys.exit(1)
 
 def process_csv_with_mapping(programme_school_map):
@@ -721,7 +737,18 @@ def process_csv_with_mapping(programme_school_map):
         df_final = df_final.sort_values('kavakood')
     
     df_final.to_csv(output_file, index=False, encoding='utf-8-sig', sep=';')
-    print(f"Output saved to: {output_file}")
+    
+    # Save parquet version to output folder
+    if PARQUET_AVAILABLE:
+        output_dir = Path('output')
+        output_dir.mkdir(exist_ok=True)
+        parquet_file = output_dir / f"{Path(output_file).stem}.parquet"
+        df_final.to_parquet(parquet_file, index=False)
+        print(f"Output saved to: {output_file}")
+        print(f"Parquet saved to: {parquet_file}")
+    else:
+        print(f"Output saved to: {output_file}")
+        print("Note: Install pyarrow for parquet format support")
     print(f"Total programmes: {len(df_final)}")
     
     return df_final
