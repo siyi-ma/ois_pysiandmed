@@ -336,7 +336,8 @@ def process_taltechkoikkavad():
     if 'tase' in df_final.columns:
         df_final['tase'] = df_final['tase'].astype(str).str.upper()
     if 'maht' in df_final.columns:
-        # Convert to numeric, coercing errors to NaN, then fill NaN with 0 and convert to int
+        # Handle European decimal format (comma) and convert to numeric
+        df_final['maht'] = df_final['maht'].astype(str).str.replace(',', '.', regex=False)
         df_final['maht'] = pd.to_numeric(df_final['maht'], errors='coerce')
         df_final['maht'] = df_final['maht'].fillna(0).astype(int)
     if 'nominaalne_oppeaeg' in df_final.columns:
@@ -636,7 +637,8 @@ def process_csv_with_mapping(programme_school_map):
     if 'tase' in df_final.columns:
         df_final['tase'] = df_final['tase'].astype(str).str.upper()
     if 'maht' in df_final.columns:
-        # Convert to numeric, coercing errors to NaN, then fill NaN with 0 and convert to int
+        # Handle European decimal format (comma) and convert to numeric
+        df_final['maht'] = df_final['maht'].astype(str).str.replace(',', '.', regex=False)
         df_final['maht'] = pd.to_numeric(df_final['maht'], errors='coerce')
         df_final['maht'] = df_final['maht'].fillna(0).astype(int)
     if 'nominaalne_oppeaeg' in df_final.columns:
