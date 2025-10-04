@@ -1,0 +1,412 @@
+{
+  "VDLR14": {
+    "full_code": "VDLR14",
+    "programme_name": "Laevajuhtimine",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VDXR17": {
+    "full_code": "VDXR17",
+    "programme_name": "Laevamehaanika",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VAAM15": {
+    "full_code": "VAAM15",
+    "programme_name": "Merendus",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VAMM23": {
+    "full_code": "VAMM23",
+    "programme_name": "Merenduse digitaliseerimine",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VDSR25": {
+    "full_code": "VDSR25",
+    "programme_name": "Mereveonduse ja sadamatöö korraldamine",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VDSR14": {
+    "full_code": "VDSR14",
+    "programme_name": "Mereveonduse ja sadamatöö korraldamine",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VDVR25": {
+    "full_code": "VDVR25",
+    "programme_name": "Veeteede haldamine ja ohutuse korraldamine",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "VDVR14": {
+    "full_code": "VDVR14",
+    "programme_name": "Veeteede haldamine ja ohutuse korraldamine",
+    "school": "EESTI MEREAKADEEMIA"
+  },
+  "IADM18": {
+    "full_code": "IADM18",
+    "programme_name": "Digimuutused ettevõttes",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAGM25": {
+    "full_code": "IAGM25",
+    "programme_name": "Digiriigi andmed ja tehnoloogiad",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IVDM24": {
+    "full_code": "IVDM24",
+    "programme_name": "E-riigi tehnoloogiad ja teenused",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "YVEM09": {
+    "full_code": "YVEM09",
+    "programme_name": "E-tervis",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAPM02": {
+    "full_code": "IAPM02",
+    "programme_name": "Informaatika",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAIB17": {
+    "full_code": "IAIB17",
+    "programme_name": "Informaatika",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAIB25": {
+    "full_code": "IAIB25",
+    "programme_name": "Informaatika ja tehisintellekt",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAAM17": {
+    "full_code": "IAAM17",
+    "programme_name": "Infosüsteemide analüüs ja kavandamine",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAAB17": {
+    "full_code": "IAAB17",
+    "programme_name": "IT süsteemide administreerimine",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IADB17": {
+    "full_code": "IADB17",
+    "programme_name": "IT süsteemide arendus",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IVCM09": {
+    "full_code": "IVCM09",
+    "programme_name": "Küberkaitse",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IVSB17": {
+    "full_code": "IVSB17",
+    "programme_name": "Küberturbe tehnoloogiad",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IVCM25": {
+    "full_code": "IVCM25",
+    "programme_name": "Küberturve",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAHM19": {
+    "full_code": "IAHM19",
+    "programme_name": "Meditsiinitehnika ja -füüsika",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IACB17": {
+    "full_code": "IACB17",
+    "programme_name": "Riistvara arendus ja programmeerimine",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IACM23": {
+    "full_code": "IACM23",
+    "programme_name": "Riistvara arendus ja programmeerimine",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IVSM09": {
+    "full_code": "IVSM09",
+    "programme_name": "Tarkvaratehnika",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IAVM23": {
+    "full_code": "IAVM23",
+    "programme_name": "Võrgutehnoloogiad ja -teenused",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IABB17": {
+    "full_code": "IABB17",
+    "programme_name": "Äriinfotehnoloogia",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "IABM02": {
+    "full_code": "IABM02",
+    "programme_name": "Äriinfotehnoloogia",
+    "school": "INFOTEHNOLOOGIA TEADUSKOND"
+  },
+  "EAUI12": {
+    "full_code": "EAUI12",
+    "programme_name": "Arhitektuur",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EDTR17": {
+    "full_code": "EDTR17",
+    "programme_name": "Arukad süsteemid ja rakendusinfotehnoloogia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAEI02": {
+    "full_code": "EAEI02",
+    "programme_name": "Ehitiste projekteerimine ja ehitusjuhtimine",
+    "school": "INSENERITEADUSKOND"
+  },
+  "AAVM02": {
+    "full_code": "AAVM02",
+    "programme_name": "Elektroenergeetika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAAB16": {
+    "full_code": "EAAB16",
+    "programme_name": "Elektroenergeetika ja mehhatroonika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAMM23": {
+    "full_code": "EAMM23",
+    "programme_name": "Elektrotehnika ja mehhatroonika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "MASM02": {
+    "full_code": "MASM02",
+    "programme_name": "Energiatehnoloogia ja soojusenergeetika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAXM15": {
+    "full_code": "EAXM15",
+    "programme_name": "Hooned ja rajatised",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAKI02": {
+    "full_code": "EAKI02",
+    "programme_name": "Hoonete sisekliima ja veetehnika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "MVEB14": {
+    "full_code": "MVEB14",
+    "programme_name": "Integreeritud tehnoloogiad",
+    "school": "INSENERITEADUSKOND"
+  },
+  "RATM24": {
+    "full_code": "RATM24",
+    "programme_name": "Jätkusuutlik tööstus",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EDKR16": {
+    "full_code": "EDKR16",
+    "programme_name": "Keemiatehnoloogia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EACB17": {
+    "full_code": "EACB17",
+    "programme_name": "Keskkonna-, energia- ja keemiatehnoloogia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAKM25": {
+    "full_code": "EAKM25",
+    "programme_name": "Keskkonnatehnoloogiad ja -strateegiad",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAKB23": {
+    "full_code": "EAKB23",
+    "programme_name": "Kestlikud sinimajanduse tehnoloogiad",
+    "school": "INSENERITEADUSKOND"
+  },
+  "HALM15": {
+    "full_code": "HALM15",
+    "programme_name": "Kutseõpetaja",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EALM02": {
+    "full_code": "EALM02",
+    "programme_name": "Logistika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EDJR16": {
+    "full_code": "EDJR16",
+    "programme_name": "Masinaehitus- ja energiatehnoloogia protsesside juhtimine",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EANB16": {
+    "full_code": "EANB16",
+    "programme_name": "Materjalitehnoloogia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EAHM23": {
+    "full_code": "EAHM23",
+    "programme_name": "Meretehnika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "SDSR10": {
+    "full_code": "SDSR10",
+    "programme_name": "Meretehnika ja laevaehitus",
+    "school": "INSENERITEADUSKOND"
+  },
+  "KVEM12": {
+    "full_code": "KVEM12",
+    "programme_name": "Puidu-, plasti- ja tekstiilitehnoloogia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EARM22": {
+    "full_code": "EARM22",
+    "programme_name": "Rohelised energiatehnoloogiad",
+    "school": "INSENERITEADUSKOND"
+  },
+  "RAKM11": {
+    "full_code": "RAKM11",
+    "programme_name": "Säästvad keemiatehnoloogiad",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EATI02": {
+    "full_code": "EATI02",
+    "programme_name": "Teedeehitus ja geodeesia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "EARB16": {
+    "full_code": "EARB16",
+    "programme_name": "Tootearendus ja robootika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "MATM02": {
+    "full_code": "MATM02",
+    "programme_name": "Tootearendus ja tootmistehnika",
+    "school": "INSENERITEADUSKOND"
+  },
+  "MARM06": {
+    "full_code": "MARM06",
+    "programme_name": "Tööstustehnika ja juhtimine",
+    "school": "INSENERITEADUSKOND"
+  },
+  "NAEM06": {
+    "full_code": "NAEM06",
+    "programme_name": "Tööstusökoloogia",
+    "school": "INSENERITEADUSKOND"
+  },
+  "LARM18": {
+    "full_code": "LARM18",
+    "programme_name": "Maa süsteemid ja geotehnoloogia",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "LARB17": {
+    "full_code": "LARB17",
+    "programme_name": "Maa süsteemid, kliima ja tehnoloogiad",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "YAFB02": {
+    "full_code": "YAFB02",
+    "programme_name": "Rakendusfüüsika",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "LAFM23": {
+    "full_code": "LAFM23",
+    "programme_name": "Rakendusfüüsika ja andmeteadus",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "YASM02": {
+    "full_code": "YASM02",
+    "programme_name": "Rakenduskeemia ja biotehnoloogia",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "LAAB17": {
+    "full_code": "LAAB17",
+    "programme_name": "Rakenduskeemia ja geenitehnoloogia",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "LATB22": {
+    "full_code": "LATB22",
+    "programme_name": "Toidu- ja biotehnoloogia",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "KATM02": {
+    "full_code": "KATM02",
+    "programme_name": "Toidutehnoloogia ja -arendus",
+    "school": "LOODUSTEADUSKOND"
+  },
+  "HAAB02": {
+    "full_code": "HAAB02",
+    "programme_name": "Avalik haldus ja riigiteadused",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "MVGM16": {
+    "full_code": "MVGM16",
+    "programme_name": "Avaliku sektori innovatsioon ja e-valitsemine",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "HAAM02": {
+    "full_code": "HAAM02",
+    "programme_name": "Avaliku sektori juhtimine ja innovatsioon",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "MAEM20": {
+    "full_code": "MAEM20",
+    "programme_name": "Ettevõtlik juhtimine MBA",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TATM02": {
+    "full_code": "TATM02",
+    "programme_name": "Juhtimine ja turundus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "MAJB24": {
+    "full_code": "MAJB24",
+    "programme_name": "Jätkusuutlik ettevõtlus ja ringmajandus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "MAKM25": {
+    "full_code": "MAKM25",
+    "programme_name": "Kestlikkuse juhtimine",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TAAM02": {
+    "full_code": "TAAM02",
+    "programme_name": "Majandusanalüüs",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "HAPM10": {
+    "full_code": "HAPM10",
+    "programme_name": "Personalijuhtimine",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TVTM03": {
+    "full_code": "TVTM03",
+    "programme_name": "Rahvusvaheline äri digiajastul",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TVTB12": {
+    "full_code": "TVTB12",
+    "programme_name": "Rahvusvaheline ärikorraldus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TAAB02": {
+    "full_code": "TAAB02",
+    "programme_name": "Rakenduslik majandusteadus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "HAGM09": {
+    "full_code": "HAGM09",
+    "programme_name": "Tehnoloogia valitsemine ja kestlik areng",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TABB02": {
+    "full_code": "TABB02",
+    "programme_name": "Ärindus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "TARM02": {
+    "full_code": "TARM02",
+    "programme_name": "Ärirahandus ja majandusarvestus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "HAJM08": {
+    "full_code": "HAJM08",
+    "programme_name": "Õigusteadus",
+    "school": "MAJANDUSTEADUSKOND"
+  },
+  "HAJB08": {
+    "full_code": "HAJB08",
+    "programme_name": "Õigusteadus",
+    "school": "MAJANDUSTEADUSKOND"
+  }
+}

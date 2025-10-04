@@ -1,0 +1,505 @@
+Tunniplaan
+TalTech kodulehekülg
+Siseportaal
+ÕIS 1
+ÕIS 2
+Tudengiportaal
+Ruumide broneerimine
+Tunniplaani vaatamine
+v 1.10.2
+Logi sisse
+TUNNIPLAAN
+Kuupäev: 04.10.2025 (laupäev), jooksev nädal: 5 (paaritu)
+2025/2026 sügis
+Teaduskonnad
+Doktoriõpe
+Vabaained
+Otsing
+Koondtunniplaan
+Eesti Mereakadeemia
+Infotehnoloogia teaduskond
+Inseneriteaduskond
+Loodusteaduskond
+Majandusteaduskond
+EESTI MEREAKADEEMIA
+Laevajuhtimine (VDLR14):
+VDLR11|
+VDLR31|
+VDLR51|
+VDLR71
+Laevamehaanika (VDXR17):
+VDXR11|
+VDXR31|
+VDXR32|
+VDXR51|
+VDXR52|
+VDXR71|
+VDXR72
+Merendus (VAAM15):
+VAAM11|
+VAAM31
+Merenduse digitaliseerimine (VAMM23):
+VAMM11
+Mereveonduse ja sadamatöö korraldamine (VDSR25):
+VDSR11
+Mereveonduse ja sadamatöö korraldamine (VDSR14):
+VDSR31|
+VDSR51|
+VDSR71
+Veeteede haldamine ja ohutuse korraldamine (VDVR25):
+VDVR11
+Veeteede haldamine ja ohutuse korraldamine (VDVR14):
+VDVR31|
+VDVR51|
+VDVR71
+INFOTEHNOLOOGIA TEADUSKOND
+Digimuutused ettevõttes (IADM18):
+IADM10A|
+IADM10B
+Digiriigi andmed ja tehnoloogiad (IAGM25):
+IAGM10
+E-riigi tehnoloogiad ja teenused (IVDM24):
+IVDM10
+E-tervis (YVEM09):
+YVEM11|
+YVEM31
+Informaatika (IAPM02):
+IAPM11|
+IAPM31
+Informaatika (IAIB17):
+IAIB31|
+IAIB32|
+IAIB33|
+IAIB51|
+IAIB52|
+IAIB53
+Informaatika ja tehisintellekt (IAIB25):
+IAIB11|
+IAIB12|
+IAIB13|
+IAIB14
+Infosüsteemide analüüs ja kavandamine (IAAM17):
+IAAM11|
+IAAM12|
+IAAM31|
+IAAM32
+IT süsteemide administreerimine (IAAB17):
+IAAB11|
+IAAB12|
+IAAB13|
+IAAB31|
+IAAB32|
+IAAB51|
+IAAB52|
+IAAB53
+IT süsteemide arendus (IADB17):
+IADB10A|
+IADB10B|
+IADB11|
+IADB12|
+IADB13|
+IADB14|
+IADB15|
+IADB30A|
+IADB30B|
+IADB31|
+IADB32|
+IADB33|
+IADB34|
+IADB35|
+IADB50A|
+IADB50B|
+IADB51|
+IADB52|
+IADB53|
+IADB54|
+IADB55
+Küberkaitse (IVCM09):
+IVCM31|
+IVCM32
+Küberturbe tehnoloogiad (IVSB17):
+IVSB11|
+IVSB12|
+IVSB31|
+IVSB32|
+IVSB51|
+IVSB52
+Küberturve (IVCM25):
+IVCM11|
+IVCM12
+Meditsiinitehnika ja -füüsika (IAHM19):
+IAHM10|
+IAHM30
+Riistvara arendus ja programmeerimine (IACB17):
+IACB11|
+IACB31|
+IACB32|
+IACB51|
+IACB52
+Riistvara arendus ja programmeerimine (IACM23):
+IACM11|
+IACM12|
+IACM31|
+IACM32
+Tarkvaratehnika (IVSM09):
+IVSM31|
+IVSM32
+Võrgutehnoloogiad ja -teenused (IAVM23):
+IAVM11|
+IAVM31
+Äriinfotehnoloogia (IABB17):
+IABB11|
+IABB12|
+IABB31|
+IABB32|
+IABB51|
+IABB52|
+IABB53
+Äriinfotehnoloogia (IABM02):
+IABM11|
+IABM31|
+IABM32|
+IABM33
+INSENERITEADUSKOND
+Arhitektuur (EAUI12):
+EAUI11|
+EAUI31|
+EAUI51|
+EAUI71|
+EAUI91
+Arukad süsteemid ja rakendusinfotehnoloogia (EDTR17):
+EDTR11_Tartu (Tartu linn)|
+EDTR11_V (Kohtla-Järve linn)|
+EDTR13_V (Kohtla-Järve linn)|
+EDTR31_Tartu (Tartu linn)|
+EDTR31_V (Kohtla-Järve linn)|
+EDTR33_V (Kohtla-Järve linn)|
+EDTR51_Tartu (Tartu linn)|
+EDTR51_V (Kohtla-Järve linn)|
+EDTR53_V (Kohtla-Järve linn)|
+EDTR71_Tartu (Tartu linn)|
+EDTR73_V (Kohtla-Järve linn)
+Ehitiste projekteerimine ja ehitusjuhtimine (EAEI02):
+EAEI11|
+EAEI12|
+EAEI13|
+EAEI14|
+EAEI15_Tartu (Tartu linn)|
+EAEI16_Tartu (Tartu linn)|
+EAEI17|
+EAEI31|
+EAEI32|
+EAEI33|
+EAEI35_Tartu (Tartu linn)|
+EAEI36_Tartu (Tartu linn)|
+EAEI51|
+EAEI52|
+EAEI53|
+EAEI54_Tartu (Tartu linn)|
+EAEI55_Tartu (Tartu linn)|
+EAEI71|
+EAEI72|
+EAEI74_Tartu (Tartu linn)|
+EAEI75_Tartu (Tartu linn)|
+EAEI91|
+EAEI92|
+EAEI94_Tartu (Tartu linn)|
+EAEI95_Tartu (Tartu linn)
+Elektroenergeetika (AAVM02):
+AAVM11|
+AAVM12|
+AAVM31|
+AAVM32
+Elektroenergeetika ja mehhatroonika (EAAB16):
+EAAB11|
+EAAB12|
+EAAB13|
+EAAB14|
+EAAB15|
+EAAB16|
+EAAB17|
+EAAB31|
+EAAB32|
+EAAB33|
+EAAB34|
+EAAB51|
+EAAB52|
+EAAB53|
+EAAB54
+Elektrotehnika ja mehhatroonika (EAMM23):
+EAMM11|
+EAMM12|
+EAMM31|
+EAMM32
+Energiatehnoloogia ja soojusenergeetika (MASM02):
+MASM11|
+MASM31
+Hooned ja rajatised (EAXM15):
+EAXM11|
+EAXM12|
+EAXM13|
+EAXM14|
+EAXM15|
+EAXM16|
+EAXM17|
+EAXM18|
+EAXM31|
+EAXM32|
+EAXM33|
+EAXM34|
+EAXM35|
+EAXM36|
+EAXM37
+Hoonete sisekliima ja veetehnika (EAKI02):
+EAKI11|
+EAKI12|
+EAKI31|
+EAKI51|
+EAKI71|
+EAKI91
+Integreeritud tehnoloogiad (MVEB14):
+MVEB11|
+MVEB12|
+MVEB13|
+MVEB31|
+MVEB32|
+MVEB51|
+MVEB52
+Jätkusuutlik tööstus (RATM24):
+RATM11_V (Kohtla-Järve linn)|
+RATM31_V (Kohtla-Järve linn)
+Keemiatehnoloogia (EDKR16):
+EDKR11_V (Kohtla-Järve linn)|
+EDKR12 (Kohtla-Järve linn)|
+EDKR31 (Kohtla-Järve linn)|
+EDKR32 (Kohtla-Järve linn)|
+EDKR51 (Kohtla-Järve linn)|
+EDKR52 (Kohtla-Järve linn)|
+EDKR72 (Kohtla-Järve linn)
+Keskkonna-, energia- ja keemiatehnoloogia (EACB17):
+EACB11|
+EACB12|
+EACB31|
+EACB51
+Keskkonnatehnoloogiad ja -strateegiad (EAKM25):
+EAKM11
+Kestlikud sinimajanduse tehnoloogiad (EAKB23):
+EAKB30 (Saaremaa vald)
+Kutseõpetaja (HALM15):
+HALM30A|
+HALM50A
+Logistika (EALM02):
+EALM11|
+EALM12|
+EALM31|
+EALM32
+Masinaehitus- ja energiatehnoloogia protsesside juhtimine (EDJR16):
+EDJR11_V (Kohtla-Järve linn)|
+EDJR14 (Kohtla-Järve linn)|
+EDJR31_V (Kohtla-Järve linn)|
+EDJR32_V (Kohtla-Järve linn)|
+EDJR34 (Kohtla-Järve linn)|
+EDJR35 (Kohtla-Järve linn)|
+EDJR51_V (Kohtla-Järve linn)|
+EDJR54_V (Kohtla-Järve linn)|
+EDJR55_V (Kohtla-Järve linn)|
+EDJR71_V (Kohtla-Järve linn)|
+EDJR74 (Kohtla-Järve linn)|
+EDJR75 (Kohtla-Järve linn)
+Materjalitehnoloogia (EANB16):
+EANB11|
+EANB12|
+EANB31|
+EANB51
+Meretehnika (EAHM23):
+EAHM31 (Saaremaa vald)
+Meretehnika ja laevaehitus (SDSR10):
+SDSR10 (Saaremaa vald)|
+SDSR30 (Saaremaa vald)|
+SDSR50 (Saaremaa vald)|
+SDSR70 (Saaremaa vald)
+Puidu-, plasti- ja tekstiilitehnoloogia (KVEM12):
+KVEM11|
+KVEM12|
+KVEM31|
+KVEM32
+Rohelised energiatehnoloogiad (EARM22):
+EARM11|
+EARM14_V (Kohtla-Järve linn)|
+EARM31|
+EARM34_V (Kohtla-Järve linn)
+Säästvad keemiatehnoloogiad (RAKM11):
+RAKM11_V (Kohtla-Järve linn)|
+RAKM31_V (Kohtla-Järve linn)
+Teedeehitus ja geodeesia (EATI02):
+EATI11|
+EATI12|
+EATI31|
+EATI32|
+EATI51|
+EATI52|
+EATI71|
+EATI72|
+EATI91|
+EATI92
+Tootearendus ja robootika (EARB16):
+EARB11|
+EARB12|
+EARB13|
+EARB31|
+EARB32|
+EARB33|
+EARB51|
+EARB52
+Tootearendus ja tootmistehnika (MATM02):
+MATM10A|
+MATM10B|
+MATM11|
+MATM12|
+MATM30A|
+MATM30B|
+MATM31|
+MATM32
+Tööstustehnika ja juhtimine (MARM06):
+MARM11|
+MARM31
+Tööstusökoloogia (NAEM06):
+NAEM10 (Tartu linn)|
+NAEM30 (Tartu linn)
+LOODUSTEADUSKOND
+Maa süsteemid ja geotehnoloogia (LARM18):
+LARM11|
+LARM12|
+LARM31|
+LARM32
+Maa süsteemid, kliima ja tehnoloogiad (LARB17):
+LARB11|
+LARB31|
+LARB51
+Rakendusfüüsika (YAFB02):
+YAFB11|
+YAFB31|
+YAFB51
+Rakendusfüüsika ja andmeteadus (LAFM23):
+LAFM11|
+LAFM31
+Rakenduskeemia ja biotehnoloogia (YASM02):
+YASM11|
+YASM12|
+YASM31|
+YASM32
+Rakenduskeemia ja geenitehnoloogia (LAAB17):
+LAAB11|
+LAAB12|
+LAAB13|
+LAAB14|
+LAAB15|
+LAAB16|
+LAAB17|
+LAAB31|
+LAAB32|
+LAAB33|
+LAAB34|
+LAAB35|
+LAAB36|
+LAAB37|
+LAAB51|
+LAAB52
+Toidu- ja biotehnoloogia (LATB22):
+LATB11|
+LATB12|
+LATB13|
+LATB14|
+LATB31|
+LATB32|
+LATB51
+Toidutehnoloogia ja -arendus (KATM02):
+KATM11|
+KATM31
+MAJANDUSTEADUSKOND
+Avalik haldus ja riigiteadused (HAAB02):
+HAAB11|
+HAAB31|
+HAAB51
+Avaliku sektori innovatsioon ja e-valitsemine (MVGM16):
+MVGM31
+Avaliku sektori juhtimine ja innovatsioon (HAAM02):
+HAAM11|
+HAAM31
+Ettevõtlik juhtimine MBA (MAEM20):
+MAEM10|
+MAEM30
+Juhtimine ja turundus (TATM02):
+TATM11|
+TATM12|
+TATM13|
+TATM14|
+TATM31|
+TATM32|
+TATM33|
+TATM34
+Jätkusuutlik ettevõtlus ja ringmajandus (MAJB24):
+MAJB11_V (Kohtla-Järve linn)|
+MAJB31_V (Kohtla-Järve linn)
+Kestlikkuse juhtimine (MAKM25):
+MAKM10
+Majandusanalüüs (TAAM02):
+TAAM11|
+TAAM31
+Personalijuhtimine (HAPM10):
+HAPM10|
+HAPM30
+Rahvusvaheline äri digiajastul (TVTM03):
+TVTM11|
+TVTM31
+Rahvusvaheline ärikorraldus (TVTB12):
+TVTB11|
+TVTB12|
+TVTB31|
+TVTB32|
+TVTB51|
+TVTB52|
+TVTB53|
+TVTB54
+Rakenduslik majandusteadus (TAAB02):
+TAAB11|
+TAAB12|
+TAAB31|
+TAAB32|
+TAAB51|
+TAAB52
+Tehnoloogia valitsemine ja kestlik areng (HAGM09):
+HAGM11|
+HAGM31
+Ärindus (TABB02):
+TABB11|
+TABB12|
+TABB13|
+TABB14|
+TABB15|
+TABB16|
+TABB31|
+TABB32|
+TABB33|
+TABB34|
+TABB35|
+TABB36|
+TABB51|
+TABB52|
+TABB53|
+TABB54|
+TABB55|
+TABB56|
+TABB57
+Ärirahandus ja majandusarvestus (TARM02):
+TARM11|
+TARM12|
+TARM31|
+TARM32
+Õigusteadus (HAJM08):
+HAJM11|
+HAJM31
+Õigusteadus (HAJB08):
+HAJB11|
+HAJB31|
+HAJB51
